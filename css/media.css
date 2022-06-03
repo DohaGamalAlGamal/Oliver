@@ -1,0 +1,302 @@
+@media (max-width: 575.98px) {
+  * {
+    font-size: 1em !important;
+  }
+  nav {
+    display: none;
+  }
+  .header-one {
+    justify-content: flex-start;
+  }
+  .content {
+    display: block;
+    padding-left: 4em;
+  }
+  .logo-oliver {
+    padding-left: 4em;
+    width: 70%;
+  }
+  .we-done {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+  .form {
+    margin-top: 1em;
+    width: 92%;
+  }
+  .registar-start {
+    padding: 0.5em 7.5em 0.5em 4.5em;
+    width: 100%;
+  }
+  .date {
+    width: 100%;
+  }
+  .name-email {
+    flex-direction: column;
+  }
+  .form-div .form-input .form-contact {
+    width: 70%;
+    transform: translate(0px, -68px);
+  }
+  .menu-bar {
+    padding-left: 5em;
+  }
+  .submenu {
+    display: block;
+  }
+  .photos {
+    display: block;
+  }
+  .box-photo {
+    padding: 0.5em 0em 0em 9em;
+    width: 50%;
+  }
+  .box-need {
+    padding-left: 0em;
+  }
+  .features {
+    padding-left: 0em;
+    width: 85%;
+  }
+  .list-needs {
+    display: block;
+    padding-left: 3em;
+  }
+  .users-info {
+    display: block;
+    padding-left: 3em;
+  }
+  .box-intr {
+    padding-bottom: 1em;
+  }
+  .box-icon {
+    width: 86%;
+    transform: translate(0px, -56px);
+  }
+  .icon-box {
+    display: block;
+    padding-left: 3em;
+  }
+  .box {
+    display: block;
+    padding-left: 1em;
+  }
+  .header-section {
+    padding-left: 3em;
+    padding-right: 3em;
+  }
+  .design {
+    display: block;
+  }
+  .character {
+    display: block;
+  }
+  .user-char {
+    padding-bottom: 1em;
+  }
+  .fa-angle-double-left {
+    position: absolute;
+    left: 5.3em;
+    top: 21em;
+  }
+  .type-plan {
+    display: block;
+  }
+  .box-plan {
+    padding-bottom: 1em;
+    padding-right: 1em;
+  }
+  .project {
+    margin-left: 2em;
+    margin-right: 2em;
+    padding-left: 0.6em;
+    padding-right: 0.6em;
+  }
+  .desgine-expertion {
+    padding-left: 0px;
+  }
+  .using {
+    padding: 2em 1em;
+  }
+  .titel-h-p {
+    padding-left: 3em;
+    padding-right: 3em;
+  }
+  .bar {
+    display: block;
+    /* padding-left: 18em; */
+  }
+  .char,
+  .char-mid {
+    display: none;
+  }
+  .social-media {
+    display: block;
+  }
+  .social-media .website {
+    padding-bottom: 1em;
+  }
+  .footer {
+    display: block;
+    padding-left: 1em;
+  }
+}
+
+/* // Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+  * {
+    font-size: 1em !important;
+  }
+  nav {
+    display: none;
+  }
+  .header-one {
+    justify-content: flex-start;
+  }
+  .content {
+    display: block;
+    padding-left: 4em;
+  }
+  .logo-oliver {
+    padding-left: 4em;
+    width: 70%;
+  }
+  .we-done {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+  .form {
+    margin-top: 1em;
+    width: 89%;
+  }
+  .date {
+    width: 100%;
+  }
+  .registar-start {
+    width: 100%;
+    padding: 0.5em 7.5em 0.5em 5.5em;
+  }
+  .name-email {
+    flex-direction: column;
+  }
+  .form-div .form-input .form-contact {
+    width: 70%;
+    transform: translate(0px, -68px);
+    padding-bottom: 4em;
+  }
+  .menu-bar {
+    padding-left: 13em;
+  }
+  .submenu {
+    display: block;
+  }
+  .photos {
+    display: block;
+  }
+  .box-photo {
+    padding: 0.5em 0em 0em 15em;
+    width: 50%;
+  }
+  .box-need {
+    padding-left: 0em;
+  }
+  .features {
+    padding-left: 0em;
+    width: 85%;
+  }
+  .list-needs {
+    display: block;
+    padding-left: 3em;
+  }
+  .users-info {
+    display: block;
+    padding-left: 3em;
+  }
+  .box-intr {
+    padding-bottom: 1em;
+  }
+  .box-icon {
+    width: 86%;
+    transform: translate(0px, -56px);
+  }
+  .icon-box {
+    display: block;
+    padding-left: 7em;
+  }
+  .box {
+    display: block;
+    padding-left: 1em;
+  }
+  .header-section {
+    padding-left: 3em;
+    padding-right: 3em;
+  }
+  .design {
+    display: block;
+  }
+  .character {
+    display: block;
+  }
+  .user-char {
+    padding-bottom: 1em;
+  }
+  .fa-angle-double-left {
+    position: absolute;
+    left: 5.3em;
+    top: 21em;
+  }
+  .type-plan {
+    display: block;
+  }
+  .box-plan {
+    padding-bottom: 1em;
+    padding-right: 1em;
+  }
+  .project {
+    margin-left: 2em;
+    margin-right: 2em;
+    padding-left: 0.6em;
+    padding-right: 0.6em;
+  }
+  .desgine-expertion {
+    padding-left: 0px;
+  }
+  .using {
+    padding: 2em 1em;
+  }
+  .titel-h-p {
+    padding-left: 3em;
+    padding-right: 3em;
+  }
+  .bar {
+    display: block;
+    /* padding-left: 18em; */
+  }
+  .char,
+  .char-mid {
+    display: none;
+  }
+  .social-media {
+    display: block;
+  }
+  .social-media .website {
+    padding-bottom: 1em;
+  }
+  .footer {
+    display: block;
+    padding-left: 1em;
+  }
+}
+/* // Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+  .char {
+    display: none;
+  }
+}
+
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+  .char {
+    display: none;
+  }
+}
